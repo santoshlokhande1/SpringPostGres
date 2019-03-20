@@ -1,1 +1,0 @@
-insert into Employee(EmpID, EmpName , Org) values('1','Sam','DEv');
